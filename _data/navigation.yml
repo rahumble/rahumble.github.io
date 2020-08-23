@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Experience"
+    url: /experience/
+  - title: "Publications"
+    url: /publications/
+  - title: "Personal"
+    url: /personal/
