@@ -35,8 +35,10 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-include-cache
 
 site:
   locale: "en-US"
