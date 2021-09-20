@@ -11,7 +11,11 @@ If it's your cup of tea, you can follow me on [Strava](https://www.strava.com/at
 {% include image.html url="../assets/images/triathlon.jpg" description="Training ride near Stanford on my TT bike" style="height: 500px" %}
 
 ## Traveling
-With the free time I have left, I try to travel as much as possible, mainly to either backpack or scuba dive. Most recently I spent two weeks in Aspen, Colorado in July 2020.
+With the free time I have left, I try to travel as much as possible, mainly to either backpack or scuba dive. Most recently I climbed Mount Rainier in July 2021.
+
+{% include image.html url="../assets/images/mt_rainier.jpg" description="Mount Rainier outside Seattle, WA" style="height: 500px" %}
+
+The previous summer I spent two weeks in Aspen, Colorado.
 
 {% include image.html url="../assets/images/capitol_lake.jpg" description="Capitol Peak and Lake outside Aspen, CO" style="height: 500px" %}
 
