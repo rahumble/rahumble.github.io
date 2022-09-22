@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 ## My papers
 - **Beam-based RF Station Fault Identification at the Linac Coherent Light Source**. Ryan Humble, Finn H. O'Shea, William Colocho, Matt Gibbs,Helen Chaffee, Eric Darve, and Daniel Ratner. 2022. [arXiv](https://arxiv.org/abs/2206.04626)
+- **Soft Masking for Cost-Constrained Channel Pruning**. Ryan Humble, Maying Shen, Jorge Albericio Latorre, Eric Darve, Jose M. Alvarez. 2022. Accepted at ECCV 2022.
 <!--
 @misc{https://doi.org/10.48550/arxiv.2206.04626,
   doi = {10.48550/ARXIV.2206.04626},
@@ -35,4 +36,4 @@ permalink: /publications/
 
 - A minor contribution to the **ATLAS Liquid Argon Calorimeter Phase-I Upgrade Technical Design Report**. 2013. [CERN Document Server](https://cds.cern.ch/record/1602230?ln=en)
 
-(Last updated 6/9/22)
+(Last updated 9/22/22)
