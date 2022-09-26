@@ -19,10 +19,9 @@ permalink: /publications/
 }
 -->
 
-
 ## Other works
-
 - **Second Order Accurate Hierarchical Approximate Factorization of Sparse SPD Matrices**. Bazyli Klockiewicz, Léopold Cambier, Ryan Humble, Hamdi Tchelepi, Eric Darve. 2020. [arXiv](https://arxiv.org/abs/2007.00789)
+- A minor contribution to the **ATLAS Liquid Argon Calorimeter Phase-I Upgrade Technical Design Report**. 2013. [CERN Document Server](https://cds.cern.ch/record/1602230?ln=en)
 <!--
 @misc{klockiewicz2020second,
     title={Second Order Accurate Hierarchical Approximate Factorization of Sparse SPD Matrices},
@@ -33,7 +32,5 @@ permalink: /publications/
     primaryClass={math.NA}
 }
 -->
-
-- A minor contribution to the **ATLAS Liquid Argon Calorimeter Phase-I Upgrade Technical Design Report**. 2013. [CERN Document Server](https://cds.cern.ch/record/1602230?ln=en)
 
 (Last updated 9/22/22)
