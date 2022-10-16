@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## My papers
 - **Beam-based RF Station Fault Identification at the Linac Coherent Light Source**. Ryan Humble, Finn H. O'Shea, William Colocho, Matt Gibbs,Helen Chaffee, Eric Darve, and Daniel Ratner. 2022. [arXiv](https://arxiv.org/abs/2206.04626)
-- **Soft Masking for Cost-Constrained Channel Pruning**. Ryan Humble, Maying Shen, Jorge Albericio Latorre, Eric Darve, Jose M. Alvarez. 2022. Accepted at ECCV 2022.
+- **Soft Masking for Cost-Constrained Channel Pruning**. Ryan Humble, Maying Shen, Jorge Albericio Latorre, Eric Darve, Jose M. Alvarez. 2022. Accepted at ECCV 2022. ([Project Page](https://github.com/NVlabs/SMCP))
 <!--
 @misc{https://doi.org/10.48550/arxiv.2206.04626,
   doi = {10.48550/ARXIV.2206.04626},
