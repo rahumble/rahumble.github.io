@@ -5,7 +5,7 @@
 layout: single
 title: About
 ---
-- I am a Senior Research at [Cerebras Systems](https://cerebras.ai), as part of their Advanced Technology Group.
+- I am a Senior Researcher at [Cerebras Systems](https://cerebras.ai), as part of their Advanced Technology Group.
 - My main research interests are deep learning, high performance computing, hardware-software co-design, and numerical linear algebra.
 - Prior to Cerebras, I completed my PhD at Stanford in Computational and Mathematical Engineering.
 - Prior to Stanford, I worked at Microsoft for two years as a software engineer, doing full-stack development for an internal-facing product to interface with and leverage the Microsoft customer knowledge graph.
