@@ -4,33 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 ## My papers
-- **Beam-based RF Station Fault Identification at the Linac Coherent Light Source**. Ryan Humble, Finn H. O'Shea, William Colocho, Matt Gibbs,Helen Chaffee, Eric Darve, and Daniel Ratner. 2022. [arXiv](https://arxiv.org/abs/2206.04626)
-- **Soft Masking for Cost-Constrained Channel Pruning**. Ryan Humble, Maying Shen, Jorge Albericio Latorre, Eric Darve, Jose M. Alvarez. 2022. Accepted at ECCV 2022. ([Project Page](https://github.com/NVlabs/SMCP))
-<!--
-@misc{https://doi.org/10.48550/arxiv.2206.04626,
-  doi = {10.48550/ARXIV.2206.04626},
-  url = {https://arxiv.org/abs/2206.04626},
-  author = {Humble, Ryan and O'Shea, Finn H. and Colocho, William and Gibbs, Matt and Chaffee, Helen and Darve, Eric and Ratner, Daniel},
-  keywords = {Accelerator Physics (physics.acc-ph), FOS: Physical sciences, FOS: Physical sciences},
-  title = {Beam-based RF Station Fault Identification at the Linac Coherent Light Source},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
-}
--->
+-	**Humble, R.**, Shen, M., Latorre, J.A., Darve, E., and Alvarez, J., 2022. Soft Masking for Cost-Constrained Channel Pruning. *European Conference on Computer Vision*. ([Project Page](https://github.com/NVlabs/SMCP), [Paper](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_38))
+-	**Humble, R.**, Zhang, Z., O’Shea, F., Darve, E., and Ratner, D., 2024. Coincident learning for unsupervised anomaly detection of scientific instruments. *Machine Learning: Science and Technology*. ([Paper](https://iopscience.iop.org/article/10.1088/2632-2153/ad64a6/meta))
+-	**Humble, R.**, O’Shea, F., Colocho, W., Gibbs, M., Chaffee, H., Darve, E., and Ratner, D., 2022. Beam-based rf station fault identification at the SLAC Linac Coherent Light Source. *Physical Review Accelerators and Beams*. ([Paper](https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.25.122804))
+-	**Humble, R.**, Colocho, W., O’Shea, F., Ratner, D. and Darve, E., 2024. Resilient VAE: Unsupervised Anomaly Detection at the SLAC Linac Coherent Light Source. *EPJ Web of Conferences*. ([Paper](https://www.epj-conferences.org/articles/epjconf/abs/2024/05/epjconf_chep2024_09033/epjconf_chep2024_09033.html))
 
 ## Other works
-- **Second Order Accurate Hierarchical Approximate Factorization of Sparse SPD Matrices**. Bazyli Klockiewicz, Léopold Cambier, Ryan Humble, Hamdi Tchelepi, Eric Darve. 2020. [arXiv](https://arxiv.org/abs/2007.00789)
-- A minor contribution to the **ATLAS Liquid Argon Calorimeter Phase-I Upgrade Technical Design Report**. 2013. [CERN Document Server](https://cds.cern.ch/record/1602230?ln=en)
-<!--
-@misc{klockiewicz2020second,
-    title={Second Order Accurate Hierarchical Approximate Factorization of Sparse SPD Matrices},
-    author={Bazyli Klockiewicz and Léopold Cambier and Ryan Humble and Hamdi Tchelepi and Eric Darve},
-    year={2020},
-    eprint={2007.00789},
-    archivePrefix={arXiv},
-    primaryClass={math.NA}
-}
--->
+- Klockiewicz, B., Cambier, L., **Humble, R.**, Tchelepi, H. and Darve, E., 2022. Second‐order accurate hierarchical approximate factorizations for solving sparse linear systems. *International Journal for Numerical Methods in Engineering*. ([Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.7076))
+- A minor contribution to the ATLAS Liquid Argon Calorimeter Phase-I Upgrade Technical Design Report, 2013. [CERN Document Server](https://cds.cern.ch/record/1602230?ln=en)
 
-(Last updated 9/22/22)
+(Last updated 11/20/24)

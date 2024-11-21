@@ -26,9 +26,9 @@ url: "https://rahumble.github.io" # the base hostname & protocol for your site, 
 repository: "rahumble/rahumble.github.io"
 author:
   avatar: "/assets/images/headshot.jpg"
-  location: "Stanford, CA"
-  bio: I am a researcher interested in anomaly detection, numerical linear algebra, high performance computing, and several other topics. Currently I am a 5th year PhD student at Stanford's <a href="https://icme.stanford.edu/">ICME</a> working with Professor <a href="https://me.stanford.edu/people/eric-darve">Eric Darve</a>.
-  email: ryhumble@stanford.edu
+  location: "San Francisco, CA"
+  bio: I am a researcher interested in deep learning, high performance computing, hardware-software co-design, and several other topics. Currently I am a Senior Researcher at <a href="https://cerebras.ai/">Cerebras</a>.
+  email: ryanahumble@gmail.edu
   google_scholar: CYmoZ9EAAAAJ
   github: rahumble
   linkedin: rahumble
